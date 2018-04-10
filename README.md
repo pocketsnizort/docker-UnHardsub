@@ -1,4 +1,4 @@
-# docker-pythOCR
+# docker-UnHardsub
 a docker for removing hardsubbed part of videos
 
 
